@@ -1,0 +1,5 @@
+{
+  "name": "Decodificador de Modelos Apple",
+  "description": "Aplicación para decodificar números de modelo de Apple y obtener información sobre el estado, región y especificaciones del dispositivo.",
+  "requestFramePermissions": []
+}
